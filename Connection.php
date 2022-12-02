@@ -51,13 +51,13 @@ class Database{
 
 $db = [
 
-    'DB_HOST' => 'localhost',
+    'DB_HOST' => '',
 
-    'DB_USER' => 'root',
+    'DB_USER' => '',
 
-    'DB_PWD' => 'g1039384t',
+    'DB_PWD' => '',
 
-    'DB_NAME' => 'tippo',
+    'DB_NAME' => '',
 
     'DB_CHARSET' => 'utf8'
 
